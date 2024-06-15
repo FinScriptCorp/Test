@@ -1,1 +1,1 @@
-whitelist = "a"
+whitelist = [[1243,'Nik'],[1467,'PIPI']]
